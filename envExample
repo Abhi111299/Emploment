@@ -1,0 +1,8 @@
+HOST=localhost
+PORT=3000
+CONNECTION_STRING=mongodb+srv://abhishek:GH92LCJ9jkqowxqU@cluster0.xwafzo8.mongodb.net/
+APP_TITLE=Employement
+APP_DESCRIPTION=Employee details
+SALT_WORK_FACTOR=4
+TOKEN_KEY="lkfhfwesklhwefgddf"
+TOKEN_EXPIRY=24h  
